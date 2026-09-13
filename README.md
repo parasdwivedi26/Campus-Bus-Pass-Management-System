@@ -28,7 +28,7 @@ A Core Java console application for managing students, campus bus routes, bus-pa
 
 The **Campus Bus Pass Management System** provides a structured console-based solution for campus transportation management.
 
-The system allows authorized users to:
+The system allows the user to:
 
 - Add student information
 - Add campus bus routes
@@ -743,6 +743,10 @@ The project report is maintained under:
 ```text
 report/
 ```
+
+### Final Project Report
+
+[View Final Project Report](report/Campus_Bus_Pass_Management_System_Final_Report_FINAL_CLEAN.pdf)
 
 The report contains the project description, requirements, architecture/design information, implementation details, testing evidence, challenges, learnings, limitations, and future enhancements.
 
