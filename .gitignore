@@ -1,0 +1,72 @@
+# Java Project .gitignore
+
+# ==============================
+# Java compiled / build files
+# ==============================
+
+# Compiled Java class files
+*.class
+
+# Java build output
+out/
+bin/
+target/
+build/
+
+# ==============================
+# VS Code
+# ==============================
+
+# VS Code workspace configuration
+.vscode/*
+
+# Keep useful shared VS Code configuration if added
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# VS Code history
+.history/
+
+# ==============================
+# Java / IDE temporary files
+# ==============================
+
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ==============================
+# Operating system files
+# ==============================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux / Unix
+*~
+
+# ==============================
+# Other IDE files
+# ==============================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# ==============================
+# Java crash / diagnostic files
+# ==============================
+
+hs_err_pid*
+replay_pid*
